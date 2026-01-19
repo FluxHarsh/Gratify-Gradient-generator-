@@ -59,7 +59,7 @@ const App = () => {
           }}
         >
           <h1 className='text-3xl font-bold'>
-            🎨
+             🖌️
             Gradient Generator - {type}
           </h1>
           <div className='flex gap-4'>
